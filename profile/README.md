@@ -1,6 +1,6 @@
 # harnsy
 
-**Your harnesses. Working together.**
+<img width="1452" height="563" alt="image 27" src="https://github.com/user-attachments/assets/07e62ad8-0f64-40c3-9907-0ceacd19276d" />
 
 harnsy turns Claude Code, Codex and OpenCode into a development team. You talk to one lead agent; it hires the roles it needs — an analyst, developers, a tester — hands out the tasks, and brings back questions and finished work.
 
